@@ -31,27 +31,51 @@ Dio Innovation - Recriando a página inicial do Instagram
 
 ## 📝 Sobre 
 
+<br>
+
 Este **repositório** tem como objetivo armazenar os **Desafios** do curso **Bootcamp Dio Innovation One** com intuito de colocarmos em prática todo conteúdo estudado durante o curso.
+
+<br>
+
+---
+
+## 📝 Descrição
+
+<br>
+
+Página de login do Instagram: nesse projeto, será abordado o conceito sobre CSS Flexbox e responsividade, preparando os alunos para as aulas de jogos, nas quais será utilizado o CSS junto ao JavaScript para estilização e posicionamento.
+
+<br>
 
 ---
 
 ## 💻 Tecnologias 
+
+<br>
 
 Os desafios são desenvolvidos e utilizandos as seguintes tecnologias:
 
 - ⚛️ [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - ⚛️ [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
+<br>
+
 ---
 
 ## 🛠 Ferramentas
 
+<br>
+
 - Google Chrome
 - Visual Studio Code
+
+<br>
 
 ---
 
 ## 💾 Baixar
+
+<br>
 
 ```bash
 
@@ -66,6 +90,9 @@ $ npm install
 $ npm start
 
 ```
+
+<br>
+
 ---
 <h3 align="center">
 
