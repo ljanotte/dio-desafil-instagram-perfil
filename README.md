@@ -61,7 +61,7 @@ $ git clone https://github.com/ljanotte/dio-desafil-instagram-perfil.git
 # Entrar no projeto
 $ cd dio-desafil-instagram-perfil
 
-# Inicializa e instala as dependências do projeto
+# Instalando e inicializando o projeto
 $ npm install
 $ npm start
 
