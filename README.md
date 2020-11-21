@@ -21,9 +21,9 @@ Dio Innovation - Recriando a página inicial do Instagram
 <br>
 
 <p align="center">
-  <a href="https://github.com/ljanotte/dio-instagram-perfil#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ljanotte/dio-instagram-perfil#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ljanotte/dio-instagram-perfil#-baixar">Baixar</a>
+  <a href="https://github.com/ljanotte/dio-desafil-instagram-perfil#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ljanotte/dio-desafil-instagram-perfil#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ljanotte/dio-desafil-instagram-perfil#-baixar">Baixar</a>
 </p>
 
 
