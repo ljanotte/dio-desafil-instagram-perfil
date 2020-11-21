@@ -15,7 +15,7 @@ Aprenda a programar páginas de internet e desenvolver websites utilizando HTML,
 <br>
 
 <h4 align="center">
-Dio Innovation - Recriando a página inicial do Instagram
+Dio Innovation - Recriando a página inicial do Instagram.
 </h4>
 
 <br>
